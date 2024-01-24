@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Christopher Mireles
+
+- I have experience with Python and Javascript with building back end projects with Django and node.js
+- Currently attending California State University, Fullerton in pursuit of a Bachelors degree in Spring 2025 with a 3.87 GPA
+- Topics covered include: Data Structures, Algorithms, File structure, and Operating Systems
+- Open to learning anyhting new!
 
 <!--
 **napalashe/napalashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
