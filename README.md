@@ -1,4 +1,5 @@
 ### Hi, I'm Christopher Mireles 🦅
+<h1>Hi, I'm Christopher Mireles 🦅 </h1>
 
 - I have experience with Python and Javascript with building back end projects with Django and node.js 
 - Currently attending California State University, Fullerton in pursuit of a Bachelors degree in Spring 2025 with a 3.87 GPA
