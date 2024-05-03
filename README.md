@@ -8,7 +8,7 @@
 <body>
     <h1>Hi. I'm Christopher Mireles 🦅 </h1>
     <p><strong>hello there</strong></p>
-    <img src="[URL_TO_YOUR_PHOTO](https://lumiere-a.akamaihd.net/v1/images/General-Grievous_c9df9cb5.jpeg?region=0%2C0%2C1200%2C675)" alt="Your Photo" width="200"/>
+   
 
 <h2>About me</h2>
 <ul>
@@ -38,8 +38,8 @@
     </ul>
 <h2>Connect me with me!</h2>
 <div id="linkedin-connect">
-    
-<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">Connect on LinkedIn</a></p>
+<h3>Linked In</h3>
+<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">LinkedIn</a></p>
 </div>
 
     
