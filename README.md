@@ -8,7 +8,7 @@
 <body>
     <h1>Hi. I'm Christopher Mireles 🦅 </h1>
     <p><strong>hello there</strong></p>
-    ![Your Photo][(URL_TO_YOUR_PHOTO)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starwars.com%2Fdatabank%2Fgeneral-grievous&psig=AOvVaw0Uh8KEs8CIMikJHqK4w5HO&ust=1714809355474000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC60eWA8YUDFQAAAAAdAAAAABAE)
+    ![Your Photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starwars.com%2Fdatabank%2Fgeneral-grievous&psig=AOvVaw0Uh8KEs8CIMikJHqK4w5HO&ust=1714809355474000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC60eWA8YUDFQAAAAAdAAAAABAE)
 
 <h2>About me</h2>
 <ul>
