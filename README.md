@@ -9,11 +9,20 @@
     <h1>Hi, I'm Christopher Mireles 🦅 </h1>
 
 <h2>About me</h2>
-- I have experience with Python and Javascript with building back end projects with Django and node.js 
-- Currently attending California State University, Fullerton in pursuit of a Bachelors degree in Spring 2025 with a 3.87 GPA
-- Topics covered include: Data Structures, Algorithms, File structure, and Operating Systems
-- Open to learning anything new!
-- I got into programming after building my first computer and started questioning what made all the pieces come together. This led me to dive deep into the history of computer development and how our modern networks are created. One of the biggest takeaways iv'e learned so far is theres multiple ways to do the same thing but the more I push myself to learn the more I become confident in trying anything new. If you have any questions, lets chat!
+<ul>
+<li>
+    Currently attending California State University, Fullerton in pursuit of a Bachelors degree in Spring 2025 with a 3.87 GPA
+</li>
+<li>
+    I have experience building back end projects with Django and node.js
+</li>
+<li>
+   I got into programming after building my first computer and started questioning what made all the pieces come together. This led me to dive deep into the history of computer development and how our modern networks are created. One of the biggest takeaways iv'e learned so far is theres multiple ways to do the same thing but the more I push myself to learn the more I become confident in trying anything new. If you have any questions, lets chat!
+</li>
+<li>
+    I have experience with Python and Javascript with building back end projects with Django and node.js
+</li>
+</ul>
 <h2>Technnologies I like</h2>
  <h3>Programming Languages</h3>
     <ul>
