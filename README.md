@@ -1,4 +1,3 @@
-### Hi, I'm Christopher Mireles 🦅
 <h1>Hi, I'm Christopher Mireles 🦅 </h1>
 
 - I have experience with Python and Javascript with building back end projects with Django and node.js 
