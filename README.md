@@ -8,7 +8,15 @@
 <body>
     <h1>Hi. I'm Christopher Mireles 🦅 </h1>
     <p><strong>hello there</strong></p>
-   
+    
+<h2>Connect me with me!</h2>
+<div id = "website-url">
+<h3>Portfolio Website</h3>
+<p><a href = "https://napalashe.com">Portfolio</p>
+<div id="linkedin-connect">
+<h3>Linked In</h3>
+<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">LinkedIn</a></p>
+</div>
 
 <h2>About me</h2>
 <ul>
@@ -31,16 +39,12 @@
         <li>HTML</li>
         <li>CSS</li>
     </ul>
-<h3>Frameworks</h3>
+<h3>Frameworks/Libraries</h3>
     <ul>
         <li>Django</li>
         <li>Node.js</li>
+        <li>pygame</li>
     </ul>
-<h2>Connect me with me!</h2>
-<div id="linkedin-connect">
-<h3>Linked In</h3>
-<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">LinkedIn</a></p>
-</div>
 
     
 
