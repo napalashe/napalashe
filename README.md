@@ -12,10 +12,10 @@
 <h2>Connect me with me!</h2>
 <div id = "website-url">
 <h3>Portfolio Website</h3>
-<p><a href = "https://napalashe.com">Click here!</p>
+<p><a href = "https://napalashe.com">Click here</p>
 <div id="linkedin-connect">
 <h3>Linked In</h3>
-<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">Click here!</a></p>
+<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">Click here</a></p>
 </div>
 
 <h2>About me</h2>
