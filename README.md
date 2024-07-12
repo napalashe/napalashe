@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Hi. I'm Christopher Mireles 🦅 </h1>
-    <p><strong>hello there</strong></p>
+    <p><strong>Software Engineer</strong></p>
     
 <h2>Connect me with me!</h2>
 <div id = "website-url">
