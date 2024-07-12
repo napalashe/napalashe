@@ -12,10 +12,10 @@
 <h2>Connect me with me!</h2>
 <div id = "website-url">
 <h3>Portfolio Website</h3>
-<p><a href = "https://napalashe.com">Portfolio</p>
+<p><a href = "https://napalashe.com">Click here!</p>
 <div id="linkedin-connect">
 <h3>Linked In</h3>
-<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">LinkedIn</a></p>
+<p><a href="www.linkedin.com/in/christopher-mireles" target="_blank">Click here!</a></p>
 </div>
 
 <h2>About me</h2>
@@ -27,6 +27,9 @@
     I have experience building back end projects with Django and node.js
 </li>
 <li>
+    I particularly like working with web design and found myself enjoying back end engineering quite a bit! I have used both Django and Node.js to build out webpages and both have a lot of great tools to connect websites together!
+</li>
+<li>
    I got into programming after building my first computer and started questioning what made all the pieces come together. This led me to dive deep into the history of computer development and how our modern networks are created. One of the biggest takeaways iv'e learned so far is theres multiple ways to do the same thing but the more I push myself to learn the more I become confident in trying anything new. If you have any questions, lets chat!
 </li>
 </ul>
@@ -35,7 +38,7 @@
     <ul>
         <li>Python</li>
         <li>JavaScript</li>
-        <li>Java</li>
+        <li>C++</li>
         <li>HTML</li>
         <li>CSS</li>
     </ul>
