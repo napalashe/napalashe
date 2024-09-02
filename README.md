@@ -23,7 +23,6 @@
   <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/linux.png" alt="Linux" width="60" height="60"/>
 </p>
 
