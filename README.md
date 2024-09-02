@@ -7,7 +7,7 @@
 ### [LinkedIn](https://www.linkedin.com/in/christopher-mireles) 
 
 ## Mains
-g
+
 <p align="center">
   <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
