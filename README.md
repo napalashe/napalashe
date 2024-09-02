@@ -1,5 +1,5 @@
 # Hi. I'm Christopher Mireles 🦅 
-**Software Engineer**
+**<span style="font-size: 1.5em;">Software Engineer</span>**
 
 ## Connect with me!
 ### [Portfolio Website](https://napalashe.com) 
@@ -18,8 +18,6 @@
   <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/express-js.png" alt="Express.js" width="60" height="60"/>
@@ -30,6 +28,7 @@
   <img src="https://img.icons8.com/color/64/000000/flask.png" alt="Flask" width="60" height="60"/>
   <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker" width="60" height="60"/>
 </p>
+
 
 
 <!--
