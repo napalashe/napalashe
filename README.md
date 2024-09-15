@@ -1,7 +1,7 @@
 # Hi. I'm Christopher Mireles 🦅 
 **<span style="font-size: 1.5em;">Software Engineer</span>**
 
-## Connect with me!
+## Connect with me!s
 ### [Portfolio Website](https://napalashe.com) 
 
 ### [LinkedIn](https://www.linkedin.com/in/christopher-mireles) 
