@@ -6,7 +6,7 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/christopher-mireles) 
 
-## Mains
+## Mainsc
 
 <p align="center">
   <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python" width="60" height="60"/>
