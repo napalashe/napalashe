@@ -29,7 +29,7 @@
 ## About me
 - **Student at California State University, Fullerton**
 - I particularly like working with web design and have found myself enjoying back-end engineering quite a bit! I have used both Django and Node.js to build out webpages, and both have great tools to connect websites together.
-- I got into programming after building my first computer and started questioning what made all the pieces come together. This curiosity led me to dive deep into the history of computer development and how our modern networks are created. One of the biggest takeaways I've learned so far is that there are multiple ways to do the same thing, but the more I push myself to learn, the more I become confident in trying anything new. If you have any questions, let's chat!
+- I got into programming after building my first computer and started questioning what made all the pieces come together. This curiosity led me to dive deep into the history of computer development and how our modern networks are created. One of the biggest takeaways I've learned so far is that there are multiple ways to do the same thing, but the more I push myself to learn, the more I become confident in trying anything new. If you have any questions, let's chat!l
 
 <!--
 **napalashe/napalashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
